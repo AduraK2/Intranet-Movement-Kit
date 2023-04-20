@@ -15,6 +15,7 @@
    「*」SMBexec利用模块（支持密码、hash传递） 
    「*」ATexec利用模块（支持密码、hash传递）
    「*」DCOMexec利用模块（支持密码、hash传递）
+   「*」MS17-010漏洞利用模块（漏洞扫描模块、命令执行回显模块、Doublepulsar利用模块）
 ```
 ### 利用
 #### WMIEXEC模块
