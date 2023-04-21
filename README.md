@@ -44,3 +44,13 @@
 ![](./static/13.jpg)
 #### Smbtouch-Scanner模块
 ![](./static/14.jpg)
+
+### 2023年4月21日更新
+应组员们要求，添加Zerologon漏洞利用模块
+#### 漏洞扫描模块
+![](./static/15.jpg)
+#### 漏洞利用模块
+![](./static/16.jpg)
+![](./static/17.jpg)
+![](./static/18.jpg)
+![](/static/19.jpg)
