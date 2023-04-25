@@ -54,3 +54,12 @@
 ![](./static/17.jpg)
 ![](./static/18.jpg)
 ![](/static/19.jpg)
+
+### 2023年4月25日更新
+添加交互式命令执行窗口、添加same-the-admin漏洞利用.优化程序部分功能、新增启动页面
+#### 交互式终端
+![](./static/20.jpg)
+#### sam-the-admin漏洞利用
+![](./static/21.jpg)
+#### 新增启动页面
+![](./static/22.jpg)
