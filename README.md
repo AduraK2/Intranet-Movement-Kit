@@ -1,4 +1,4 @@
-# Intranet-Movement-Kit
+# ~~Intranet-Movement-Kit~~ （项目废除重构中，进行优化，也别再问了，目前不会放出，团队组员不肯）
 
 ## 内网横向移动工具箱
 
